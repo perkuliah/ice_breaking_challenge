@@ -23,7 +23,7 @@
 
             <div class="content-wrapper container">
 
-                {{ $slotss }}
+                {{ $slotsss }}
 
             </div>
             <livewire:front.atom.footer />
