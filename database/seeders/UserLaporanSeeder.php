@@ -17,7 +17,7 @@ class UserLaporanSeeder extends Seeder
     {
         // Buat user role "user"
         User::create([
-            'name' => 'User Admin',
+            'namess' => 'User Admin',
             'username' => 'useradmin',
             'email' => 'admin@example.com',
             'whatsapp' => '082191170349',
